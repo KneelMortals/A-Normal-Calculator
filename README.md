@@ -1,1 +1,4 @@
-A-Normal-Calculator, not a good one but yeah a basic one
+## A-Normal-Calculator
+
+A basic calculator written in Java that evaluates arithmetic expressions
+with correct operator precedence (BODMAS).
