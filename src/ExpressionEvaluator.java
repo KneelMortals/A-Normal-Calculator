@@ -63,6 +63,6 @@ public class ExpressionEvaluator{
         System.out.print("Enter The Expression: ");
         String expr=sc.nextLine();
         sc.close();
-        System.out.printf("Result: %.2f",evaluate(expr));
+        System.out.printf("Result: %.2f\n",evaluate(expr));
     }
 }
